@@ -4,5 +4,6 @@ public class EmfanisiAm {
         System.out.println(8230151);
         System.out.println(8230168);
         System.out.println(8230018);
+        System.out.println(8230045);
     }
 }
